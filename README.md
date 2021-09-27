@@ -1,4 +1,10 @@
 <h1 align="center">Challenge 1: ToDo</h1>
+
+<p align="center" >
+  <img src="https://github.com/FabioSntos/Desafio-01---Conceitos-do-React-Native/blob/main/ToDo.gif?raw=true" alt="ToDoApp"  width="250" />
+</p>
+
+
 📝 About
 For this challenge, I developed a ToDo mobile application
 
